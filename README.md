@@ -20,7 +20,7 @@
 1.将代码clone到本地（注意这里不能直接download）
 
 ```shell
-git clone https://github.com/coderwhy/LearnMiniProgram
+git clone https://github.com/Youthgogo/LearnMiniProgram-1.git
 ```
 
 2.进入目录，查看某个知识点，切换到对应的tag
